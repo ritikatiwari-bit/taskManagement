@@ -1,0 +1,42 @@
+Final Project Documentation & Reflection
+
+1. Project Title
+TaskFlow – Task Management Application
+
+2. Project Objective
+The objective of this project is to develop a responsive and interactive Task Management Application using HTML5, CSS3, and JavaScript. The project applies the web development concepts learned during the six-week internship and demonstrates practical knowledge of Git, GitHub, and GitHub Pages.
+
+3. Project Overview
+TaskFlow is a web-based task management application designed to help users organize and manage their daily tasks efficiently. Users can add tasks by entering a title, description, due date, and priority. The application also allows users to edit, delete, complete, search, and filter tasks. Task statistics such as total, pending, completed, and high-priority tasks are displayed on the dashboard. JavaScript Local Storage is used to preserve tasks even after refreshing the webpage. The interface is designed to work across desktop, tablet, and mobile devices.
+
+4. Technologies Used
+The project was developed using **HTML5, CSS3, and JavaScript**. HTML5 was used to create the semantic structure, CSS3 was used for styling, Flexbox, Grid, and responsive media queries, while JavaScript was used for functions, arrays, objects, DOM manipulation, events, validation, searching, filtering, and task management. Git and GitHub were used for version control and repository management, and GitHub Pages was used for deployment.
+
+5. Main Features
+The main features include task creation, editing, deletion, completion tracking, priority selection, due dates, search and filtering, form validation, task statistics, Local Storage, and responsive design. The JavaScript code is divided into three files: `script.js`, `dom.js`, and `features.js` for better organization and maintainability.
+
+6. Website Screenshots
+The following screenshots are included in the project documentation:
+    * Desktop View
+    * Tablet View
+    * Mobile View
+    * Add Task Form
+    * Task Management Dashboard
+
+7. GitHub Repository Link
+https://github.com/ritikatiwari-bit/internova-WD
+
+8. Live Website Link
+https://ritikatiwari-bit.github.io/internova-WD/
+
+9. Challenges Faced
+During development, some challenges included managing dynamically generated task cards, implementing edit and delete operations, validating user input, maintaining task data after page refresh, and making the interface responsive on different screen sizes.
+
+10. Solutions Implemented
+These challenges were solved by separating the JavaScript functionality into different files and creating reusable functions. DOM manipulation was used to dynamically update task cards, while Local Storage was implemented to preserve task information. CSS Grid, Flexbox, and media queries were used to create a responsive layout.
+
+11. Key Learnings
+This project helped me understand how HTML, CSS, and JavaScript work together to create a complete web application. I gained practical experience with DOM manipulation, event handling, arrays, objects, functions, form validation, Local Storage, and responsive design. I also learned how Git and GitHub can be used to maintain project versions and how GitHub Pages can be used to deploy a website publicly.
+
+12. Future Improvements
+Future improvements could include user authentication, a backend database, cloud synchronization, task reminders, calendar integration, drag-and-drop task management, dark mode, and email notifications.
