@@ -24,10 +24,10 @@ The following screenshots are included in the project documentation:
     * Task Management Dashboard
 
 7. GitHub Repository Link
-https://github.com/ritikatiwari-bit/internova-WD
+https://github.com/ritikatiwari-bit/taskManagement
 
 8. Live Website Link
-https://ritikatiwari-bit.github.io/internova-WD/
+https://ritikatiwari-bit.github.io/taskManagement/
 
 9. Challenges Faced
 During development, some challenges included managing dynamically generated task cards, implementing edit and delete operations, validating user input, maintaining task data after page refresh, and making the interface responsive on different screen sizes.
